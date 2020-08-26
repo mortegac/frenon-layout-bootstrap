@@ -1,0 +1,14 @@
+
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .bg-image-1{ background-image: url('https://images.unsplash.com/photo-1504916390926-051aa60f206f') }
+  .bg-image-2{ }
+  .bg-image-3{ }
